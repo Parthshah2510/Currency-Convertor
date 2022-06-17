@@ -1,0 +1,53 @@
+Argentine Peso,1.250023
+Australian Dollar,0.017922
+Bahraini Dinar,0.005129
+Botswana Pula,0.151302
+Brazilian Real,0.077868
+Bruneian Dollar,0.018334
+Bulgarian Lev,0.022645
+Canadian Dollar,0.017134
+Chilean Peso,9.780558
+Chinese Yuan Renminbi,0.089509
+Colombian Peso,49.942348
+Croatian Kuna,0.087628
+Czech Koruna,0.302212
+Danish Krone,0.086122
+Euro,0.011578
+Hong Kong Dollar,0.106057
+Hungarian Forint,4.184364
+Icelandic Krona,1.721569
+Indonesian Rupiah,198.131275
+Iranian Rial,573.230115
+Israeli Shekel,0.045371
+Japanese Yen,1.506715
+Kazakhstani Tenge,5.828588
+South Korean Won,15.382117
+Kuwaiti Dinar,0.004121
+Libyan Dinar,0.061879
+Malaysian Ringgit,0.056470
+Mauritian Rupee,0.550648
+Mexican Peso,0.276667
+Nepalese Rupee,1.607500
+New Zealand Dollar,0.019418
+Norwegian Krone,0.116342
+Omani Rial,0.005245
+Pakistani Rupee,2.089692
+Philippine Peso,0.662655
+Polish Zloty,0.053272
+Qatari Riyal,0.049650
+Romanian New Leu,0.056856
+Russian Ruble,1.038119
+Saudi Arabian Riyal,0.051150
+Singapore Dollar,0.018334
+South African Rand,0.199638
+Sri Lankan Rupee,2.712812
+Swedish Krona,0.118885
+Swiss Franc,0.012836
+Taiwan New Dollar,0.388643
+Thai Baht,0.426955
+Trinidadian Dollar,0.092657
+Turkish Lira,0.109617
+Emirati Dirham,0.050093
+British Pound,0.009861
+US Dollar,0.013640
+Venezuelan Bolivar,2522725610.086525
